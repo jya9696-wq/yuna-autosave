@@ -1,12 +1,11 @@
 {
- "version": "2.4.3",
+ "version": "2.4.4",
  "title": "새 버전으로 업데이트됐어요",
  "notes": [
-  "「오늘 흐름」을 15분 단위 작업 덩어리로 묶어서 보여줘요",
-  "30분 안 되게 쉰 건 앞뒤 그림 시간에 이어 붙여요",
-  "막대 아래에 시간 눈금(14시·15시…)이 생겼어요"
+  "그림 기록(타임랩스) 폴더가 backup 폴더 옆으로 나왔어요 — 예전 사진도 알아서 옮겨져요",
+  "자정을 넘겨 그려도 자기 전까지는 전날 작업시간으로 쳐요 (3시간 넘게 쉬면 새 날)"
  ],
- "exe": "https://raw.githubusercontent.com/jya9696-wq/yuna-autosave/main/files/2.4.3/YunaAutoSave.exe",
- "sha256": "217ff2e7dd0eeef77d9511e1dc0a3d469d4c34e2bdf746d3c3f88d03ddcd169c",
- "size": 1899008
+ "exe": "https://raw.githubusercontent.com/jya9696-wq/yuna-autosave/main/files/2.4.4/YunaAutoSave.exe",
+ "sha256": "c4bdaeae33144e883f3bf0124d2278736c255b9f5fb49e0e0d38538ad4f68e84",
+ "size": 1902592
 }
