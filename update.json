@@ -1,11 +1,12 @@
 {
- "version": "2.4.2",
+ "version": "2.4.3",
  "title": "새 버전으로 업데이트됐어요",
  "notes": [
-  "작업시간 「오늘 흐름」 막대가 오래 켜 두면 앞부분만 보이던 문제를 고쳤어요",
-  "이제 막대가 처음부터 지금까지 한눈에 보여요"
+  "「오늘 흐름」을 15분 단위 작업 덩어리로 묶어서 보여줘요",
+  "30분 안 되게 쉰 건 앞뒤 그림 시간에 이어 붙여요",
+  "막대 아래에 시간 눈금(14시·15시…)이 생겼어요"
  ],
- "exe": "https://raw.githubusercontent.com/jya9696-wq/yuna-autosave/main/files/2.4.2/YunaAutoSave.exe",
- "sha256": "a18aaf301a96b69f97a281f2a58ae03133f23c65d393488a11b1b71af134d71f",
- "size": 1898496
+ "exe": "https://raw.githubusercontent.com/jya9696-wq/yuna-autosave/main/files/2.4.3/YunaAutoSave.exe",
+ "sha256": "217ff2e7dd0eeef77d9511e1dc0a3d469d4c34e2bdf746d3c3f88d03ddcd169c",
+ "size": 1899008
 }
