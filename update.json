@@ -1,0 +1,12 @@
+{
+ "version": "2.4.1",
+ "title": "새 버전으로 업데이트됐어요",
+ "notes": [
+  "이제 새 버전이 나오면 그림을 쉬는 틈에 알아서 업데이트돼요",
+  "업데이트되면 이렇게 바뀐 점을 한 번 알려드려요",
+  "지금 버전은 설정 → 내 설정 → 켜고 끄기에서 볼 수 있어요"
+ ],
+ "exe": "https://raw.githubusercontent.com/jya9696-wq/yuna-autosave/main/files/2.4.1/YunaAutoSave.exe",
+ "sha256": "a87ed545474bbce9ff38fbd75e327159752f949b0d32c9d13e9e7d1ccdc048d4",
+ "size": 1897472
+}
