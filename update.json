@@ -1,11 +1,11 @@
 {
- "version": "2.4.4",
+ "version": "2.4.5",
  "title": "새 버전으로 업데이트됐어요",
  "notes": [
-  "그림 기록(타임랩스) 폴더가 backup 폴더 옆으로 나왔어요 — 예전 사진도 알아서 옮겨져요",
-  "자정을 넘겨 그려도 자기 전까지는 전날 작업시간으로 쳐요 (3시간 넘게 쉬면 새 날)"
+  "이름 있는 그림인데 「새 그림은 이름부터 붙여 주세요」 알림이 잘못 뜨던 문제를 고쳤어요 (클립스튜디오 등)",
+  "창 제목에 확장자가 안 보여도 그림 파일을 찾아서 자동저장해요"
  ],
- "exe": "https://raw.githubusercontent.com/jya9696-wq/yuna-autosave/main/files/2.4.4/YunaAutoSave.exe",
- "sha256": "c4bdaeae33144e883f3bf0124d2278736c255b9f5fb49e0e0d38538ad4f68e84",
- "size": 1902592
+ "exe": "https://raw.githubusercontent.com/jya9696-wq/yuna-autosave/main/files/2.4.5/YunaAutoSave.exe",
+ "sha256": "3ee32025093b2b6ffa0b1373baaf1d39fd870f36f5ac2276bdb764d849fea4fc",
+ "size": 1904128
 }
