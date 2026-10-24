@@ -1,11 +1,10 @@
 {
- "version": "2.4.6",
+ "version": "2.4.7",
  "title": "새 버전으로 업데이트됐어요",
  "notes": [
-  "그림 기록(타임랩스)이 빠지던 문제를 고쳤어요 — 폴더에서 바뀐 걸 찾아 백업할 때도 남겨요",
-  "클립스튜디오에서 팔레트·캔버스를 따로 빼서 써도 그림으로 알아봐요"
+  "설정창을 배율이 다른 모니터로 옮기면 안쪽 화면이 잘리던 문제를 고쳤어요"
  ],
- "exe": "https://raw.githubusercontent.com/jya9696-wq/yuna-autosave/main/files/2.4.6/YunaAutoSave.exe",
- "sha256": "355273292780ab8366706c82f45afe6b663e1326e2801090a980213b8bb7e05c",
- "size": 1905664
+ "exe": "https://raw.githubusercontent.com/jya9696-wq/yuna-autosave/main/files/2.4.7/YunaAutoSave.exe",
+ "sha256": "18758ff7f72e03b7ebac456a3a9cd71387213603b400a500fb346fda3280ea19",
+ "size": 1906688
 }
