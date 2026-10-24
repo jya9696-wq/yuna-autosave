@@ -1,11 +1,11 @@
 {
- "version": "2.4.5",
+ "version": "2.4.6",
  "title": "새 버전으로 업데이트됐어요",
  "notes": [
-  "이름 있는 그림인데 「새 그림은 이름부터 붙여 주세요」 알림이 잘못 뜨던 문제를 고쳤어요 (클립스튜디오 등)",
-  "창 제목에 확장자가 안 보여도 그림 파일을 찾아서 자동저장해요"
+  "그림 기록(타임랩스)이 빠지던 문제를 고쳤어요 — 폴더에서 바뀐 걸 찾아 백업할 때도 남겨요",
+  "클립스튜디오에서 팔레트·캔버스를 따로 빼서 써도 그림으로 알아봐요"
  ],
- "exe": "https://raw.githubusercontent.com/jya9696-wq/yuna-autosave/main/files/2.4.5/YunaAutoSave.exe",
- "sha256": "3ee32025093b2b6ffa0b1373baaf1d39fd870f36f5ac2276bdb764d849fea4fc",
- "size": 1904128
+ "exe": "https://raw.githubusercontent.com/jya9696-wq/yuna-autosave/main/files/2.4.6/YunaAutoSave.exe",
+ "sha256": "355273292780ab8366706c82f45afe6b663e1326e2801090a980213b8bb7e05c",
+ "size": 1905664
 }
